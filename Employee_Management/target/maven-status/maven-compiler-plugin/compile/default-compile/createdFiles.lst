@@ -1,0 +1,8 @@
+com\mycompany\employee_management\resources\JakartaEE10Resource.class
+com\DAO\EmployeeDAO.class
+com\WEB\CarServlet.class
+com\Model\Car.class
+com\WEB\EmployeeServlet.class
+com\Model\Employee.class
+com\DAO\CarDAO.class
+com\mycompany\employee_management\JakartaRestConfiguration.class
